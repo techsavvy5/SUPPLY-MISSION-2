@@ -1,2 +1,1 @@
-# SUPPLY-MISSION-2
-VBHRIGB,DNBKNV
+# SupplyMission
